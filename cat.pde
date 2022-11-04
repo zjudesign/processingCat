@@ -11,9 +11,9 @@ Eye e1,e2;
 void setup() {
   size(1440, 810);
   // 窗口大小
-  mao = loadImage("mao.png");
-  //zui = loadImage("zui.png");
-  yu2 = loadImage("shu.png");
+  mao = loadImage("cat.png");
+  //zui = loadImage("mouth.png");
+  yu2 = loadImage("mice.png");
   //导入猫猫、嘴巴和老鼠
 
 }
